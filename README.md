@@ -1,5 +1,20 @@
-# LRU-Cache-Project
+## LRU-Cache-Project
+### What is LRU Cache ?
+### What is Cache ?
+### What is applications of LRU cache ? 
+### What data structure do we use to implement LRC cache ?
+---
+### Implementation 
+---
+* for implementing  LRU cache system we first have to know what operations does `LRU Cache ` support. here below are operation that `LRU Cache` support.
+  
+   1. Inerting item into cache.
+   2. Accessing item from cache.
+   3. Accessing most recently used item from cache.
 
+**_Case - 1_**
+---
+* in this case we discuss how can we implement 1st operation that is inserting an item into the LRU Cache.
 ```C++
 #include <bits/stdc++.h>
 using namespace std;
