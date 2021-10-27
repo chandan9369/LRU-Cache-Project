@@ -8,9 +8,9 @@
 ---
 * for implementing  LRU cache system we first have to know what operations does `LRU Cache ` support. here below are operation that `LRU Cache` support.
   
-   1. Inerting item into cache.
-   2. Accessing item from cache.
-   3. Accessing most recently used item from cache.
+   1. `Inerting item into cache.`
+   2. `Accessing item from cache.`
+   3. `Accessing most recently used item from cache.`
 
 **_Case - 1_**
 ---
